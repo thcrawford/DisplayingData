@@ -48,7 +48,7 @@ Tools
 * [Excel](https://products.office.com/en-us/excel)
 * [Tableau](http://www.tableau.com/)
 * [D3](http://d3js.org/)
-* [Datawatch Designer](Shttp://www.datawatch.com/products/datawatch-designer/)
+* [Datawatch Designer](http://www.datawatch.com/products/datawatch-designer/)
 * [Visio](https://products.office.com/en-us/Visio/flowchart-software)
 * [IBM Watson Analytics](http://www.ibm.com/analytics/watson-analytics/)
 * [Semantica](http://www.semanticresearch.com/semantica-pro)
