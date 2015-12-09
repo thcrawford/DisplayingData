@@ -35,6 +35,10 @@ Chart & Graph Selection:
 * [Info Design Patterns via Christian Behrens](http://www.niceone.org/infodesignpatterns)
 * [Data Viz Catalogue via Severino Ribecca](http://datavizcatalogue.com/)
 
+Bullet Chart Design:
+* [Bullet Graphs via PeltierTech](http://peltiertech.com/bullet-charts-in-excel/)
+* [Bullet Graphs via ExcelUser.com](http://exceluser.com/excel_dashboards/bullet-graph.htm)
+
 Font Selection:
 * [Selecting the Right Font via User Testing](http://www.usertesting.com/blog/2014/08/06/choosing-the-right-font-a-guide-to-typography-and-user-experience/)
 * [Type Genius](http://www.typegenius.com/)
