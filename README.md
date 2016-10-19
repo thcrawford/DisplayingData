@@ -1,6 +1,6 @@
 # VizNetwork - Displaying Data
 ## University of Michigan
-## December 9, 2015
+## October 19, 2016
 
 ### Overview
 How do you help your data tell it’s story? How do you help your audience “get it”? We see graphs everyday that are ineffective, misleading, or even downright wrong. Tom Crawford will lead you through the process of creating effective data visualizations for your reports and presentations.
@@ -47,16 +47,23 @@ Font Selection:
 Color Selection:
 * [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+* [Color Scales via David Schnurr](https://medium.com/@dschnr/using-clustering-to-create-a-new-d3-js-color-scale-dec4ccd639d2#.9cppt8yml)
 
 Tools
 * [Excel](https://products.office.com/en-us/excel)
 * [Tableau](http://www.tableau.com/)
 * [D3](http://d3js.org/)
+* [AnyChart](http://www.anychart.com/) 
 * [Datawatch Designer](http://www.datawatch.com/products/datawatch-designer/)
 * [Visio](https://products.office.com/en-us/Visio/flowchart-software)
 * [IBM Watson Analytics](http://www.ibm.com/analytics/watson-analytics/)
 * [Semantica](http://www.semanticresearch.com/semantica-pro)
 * [Leximancer](http://info.leximancer.com/)
+
+Blogs
+* [Flowing Data by Nathan Yau](http://flowingdata.com/)
+* [Visual Business Intelligence by Stephen Few](http://www.perceptualedge.com/blog/)
+* [The Functional Art by Alberto Cairo](http://www.thefunctionalart.com/)
 
 Books:
 * [The Functional Art by Alberto Cairo](http://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739/ref=sr_1_1?ie=UTF8&qid=1449345092&sr=8-1&keywords=alberto+cairo)
@@ -68,3 +75,7 @@ Books:
 * [Design for Information by Isabel Meirelles](http://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061/ref=sr_1_9?ie=UTF8&qid=1449345092&sr=8-9&keywords=alberto+cairo)
 * [Data Visualizations via Noah Iliinsky & Julie Steele](http://www.amazon.com/Designing-Data-Visualizations-Informational-Relationships/dp/1449312284/ref=sr_1_1?ie=UTF8&qid=1449345480&sr=8-1&keywords=noah+iliinsky)
 * [Beautiful Visualizations via Noah Iliinsky, et al](http://www.amazon.com/Beautiful-Visualization-Looking-through-Practice/dp/1449379869/ref=sr_1_2?ie=UTF8&qid=1449345480&sr=8-2&keywords=noah+iliinsky)
+
+How to Lie with Charts & Graphs:
+* [Spurious Correlations via Tyler Vigen](http://www.tylervigen.com/spurious-correlations)
+* [WTF Visualizations](http://viz.wtf/)
