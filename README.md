@@ -32,8 +32,8 @@ Design:
 
 Chart & Graph Selection:
 * [Chart Suggestions via A. Abela](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
-* [Info Design Patterns via Christian Behrens](http://www.niceone.org/infodesignpatterns)
 * [Data Viz Catalogue via Severino Ribecca](http://datavizcatalogue.com/)
+* [Info Design Patterns via Christian Behrens](http://patternbrowser.org/)
 
 Bullet Chart Design:
 * [Bullet Graphs via PeltierTech](http://peltiertech.com/bullet-charts-in-excel/)
@@ -76,6 +76,6 @@ Books:
 * [Data Visualizations via Noah Iliinsky & Julie Steele](http://www.amazon.com/Designing-Data-Visualizations-Informational-Relationships/dp/1449312284/ref=sr_1_1?ie=UTF8&qid=1449345480&sr=8-1&keywords=noah+iliinsky)
 * [Beautiful Visualizations via Noah Iliinsky, et al](http://www.amazon.com/Beautiful-Visualization-Looking-through-Practice/dp/1449379869/ref=sr_1_2?ie=UTF8&qid=1449345480&sr=8-2&keywords=noah+iliinsky)
 
-How to Lie with Charts & Graphs:
+How to Lie with Charts & Graphs (just for fun):
 * [Spurious Correlations via Tyler Vigen](http://www.tylervigen.com/spurious-correlations)
 * [WTF Visualizations](http://viz.wtf/)
