@@ -29,6 +29,7 @@ Design:
 * [Color, Font, & Icons via Data + Design](https://infoactive.co/data-design/ch15.html)
 * [Deception via Data + Design](https://infoactive.co/data-design/ch17.html)
 * [Common Mistakes via Data + Design](https://infoactive.co/data-design/ch18.html)
+* [Misleading Graph via Wikipedia](https://en.wikipedia.org/wiki/Misleading_graph)
 
 Chart & Graph Selection:
 * [Chart Suggestions via A. Abela](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
