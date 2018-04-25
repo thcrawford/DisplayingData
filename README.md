@@ -1,6 +1,6 @@
 # VizNetwork - Displaying Data
 ## University of Michigan
-## March 30, 2017
+## April 26, 2018
 
 ### Overview
 How do you help your data tell it’s story? How do you help your audience “get it”? We see graphs everyday that are ineffective, misleading, or even downright wrong. Tom Crawford will lead you through the process of creating effective data visualizations for your reports and presentations.
@@ -34,7 +34,7 @@ Design:
 Chart & Graph Selection:
 * [Chart Suggestions via A. Abela](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
 * [Data Viz Catalogue via Severino Ribecca](http://datavizcatalogue.com/)
-* [Info Design Patterns via Christian Behrens](http://patternbrowser.org/)
+* [Visual Vocabulary via Financial Times](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
 
 Bullet Chart Design:
 * [Bullet Graphs via PeltierTech](http://peltiertech.com/bullet-charts-in-excel/)
