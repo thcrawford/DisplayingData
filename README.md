@@ -1,6 +1,6 @@
-# VizNetwork - Displaying Data
+# VizNetwork - High Impact Data Visualization - Displaying Data
 ## University of Michigan
-## April 26, 2018
+## October 11, 2018
 
 ### Overview
 How do you help your data tell it’s story? How do you help your audience “get it”? We see graphs everyday that are ineffective, misleading, or even downright wrong. Tom Crawford will lead you through the process of creating effective data visualizations for your reports and presentations.
