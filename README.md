@@ -1,6 +1,6 @@
 # VizNetwork - High Impact Data Visualization - Displaying Data
-## University of Michigan
-## March 28, 2019
+## University of Michigan Housing
+## April 26, 2019
 
 ### Overview
 How do you help your data tell it’s story? How do you help your audience “get it”? We see graphs everyday that are ineffective, misleading, or even downright wrong. Tom Crawford will lead you through the process of creating effective data visualizations for your reports and presentations.
@@ -8,7 +8,6 @@ How do you help your data tell it’s story? How do you help your audience “ge
 ### You will learn:
 * How people process visual information
 * How to design effective charts and graphs
-* How to visualize large data sets
 * How to visualize geographic information
 * How to avoid misleading your audience
 * How to reduce chart noise
