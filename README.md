@@ -59,6 +59,7 @@ Tools
 * [IBM Watson Analytics](http://www.ibm.com/analytics/watson-analytics/)
 * [Semantica](http://www.semanticresearch.com/semantica-pro)
 * [Leximancer](http://info.leximancer.com/)
+* [Flourish](https://flourish.studio/)
 
 Blogs
 * [Flowing Data by Nathan Yau](http://flowingdata.com/)
@@ -68,6 +69,7 @@ Blogs
 Books:
 * [The Functional Art by Alberto Cairo](http://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739/ref=sr_1_1?ie=UTF8&qid=1449345092&sr=8-1&keywords=alberto+cairo)
 * [The Truthful Art by Alberto Cairo](http://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/ref=sr_1_2?ie=UTF8&qid=1449345092&sr=8-2&keywords=alberto+cairo)
+* [How Charts Lie by Alberto Cairo](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 * [Visualize This by Nathan Yao](http://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889/ref=sr_1_5?ie=UTF8&qid=1449345092&sr=8-5&keywords=alberto+cairo)
 * [Show Me the Numbers by Stephen Few](http://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=pd_sim_14_3?ie=UTF8&dpID=41kOQycFwLL&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&refRID=1A89PC5EJNERTADXKFS0)
 * [Now You See It by Stephen Few](http://www.amazon.com/Now-You-See-Visualization-Quantitative/dp/0970601980/ref=pd_bxgy_14_img_3?ie=UTF8&refRID=09Y7NZWXRK9ZTVNDWG04)
